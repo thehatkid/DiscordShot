@@ -1,0 +1,3 @@
+bot:
+  token: "Discord Bot Token"
+  prefix: "n!"
